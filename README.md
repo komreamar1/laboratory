@@ -1,4 +1,4 @@
-## A README needs to answer the following , why, and how:
+## Please check the master branch
 # what
 - I AM CREATING A PATHOLOGY REPORT
 # why
